@@ -1,5 +1,7 @@
 # IOT OS Lite
 
+Smartwatch lightweight application for internet things
+
 Lightweight Internet of things dashboard responsive app for smartwatches
 
 Designed with a mix of transparent overlays and material design principles.
