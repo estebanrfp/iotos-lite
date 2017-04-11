@@ -1,6 +1,6 @@
 # IOT OS Lite
 
-A mock light Internet of things OS dashboard app.
+A Lightweight Internet of things dashboard app.
 
 Designed with a mix of transparent overlays and material design principles.
 
